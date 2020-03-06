@@ -1,4 +1,4 @@
-# Facebook-profile-guard-activator
+# Facebook profile guard activator without access token or credentials
 Facebook's profile safe guard
 
 # Activation
