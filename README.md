@@ -9,3 +9,4 @@ Facebook's profile safe guard
 
 # Note
 This API will not work in facebook Comet (Facebook's new UI design)
+How to classic mode? https://www.facebook.com/help/645404059595478
