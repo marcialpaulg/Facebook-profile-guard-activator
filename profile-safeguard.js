@@ -36,7 +36,7 @@ fetch("https://www.facebook.com/api/graphql/", {
         __spin_t: (new Date().getTime()),
         fb_api_caller_class: 'IsShieldedSetMutation',
         fb_api_req_friendly_name: 'IsShieldedSetMutation',
-        variables: '{\"0\":{\"is_shielded\":true,\"session_id\":\"'+(session_id = document.querySelector('input[name="composer_session_id"]').value)+'\",\"actor_id\":\"'+user_id+'\",\"client_mutation_id\":\"'+session_id+'\"}}',
+        variables: '{\"0\":{\"is_shielded\":true,\"session_id\":\"\",\"actor_id\":\"'+user_id+'\",\"client_mutation_id\":\"1\"}}',
         doc_id: '1477043292367183',
     }),
     "method": "POST",
